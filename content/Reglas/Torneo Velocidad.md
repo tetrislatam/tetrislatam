@@ -1,11 +1,11 @@
 ![torneovelocidadbanner](https://i.imgur.com/49afXSh.png)
-#Las Reglas del Torneo Velocidad 
+# Las Reglas del Torneo Velocidad 
 
 -> Únete al Discord de [Beyond The Stars](https://discord.gg/j2bF8Kpj2V) para poder participar. Por favor lea todo. <-
 
 [TOC]
 
-###Fecha y Formato 
+### Fecha y Formato 
 !!!info Cap: El limite de rango que se impone en un torneo. Este puede ser a base de TR (22000, 23000, etc.) o Rango (S, S+, U, etc.).  
 - **Para poder registrarse al Torneo Velocidad**: Ponga su nombre de usuario de TETR.IO en #inscripción. Si todo resulto exitoso, el bot reaccionara a su inscripción con ✅
 
@@ -19,7 +19,7 @@
 .
 - **Para torneos con cap de TR, se debe tener un rango previo al anuncio del Torneo.** Cuentas con RD >100 (el rango "?") o jugadores sin cuenta no podran participar en Torneo Velocidad Amateur o un Torneo Velocidad con un cap al menos que tengan un rango. Esto no aplica para Torneo's Velocidad sin cap. 
 
-###Check-in
+### Check-in
 !!!info El check-in es una confirmación de participación que hacen los jugadores antes del comienzo del torneo. Esto se hace para saber quien esta presente para el torneo.
 
 - **El periodo de Check-in dura 45 minutos y abre 50 minutos antes del torneo**. Es decir, que si el Torneo comienza a las 6, el check-in abrirá a las 5:10 y durara hasta las 5:55. Los 5 minutos restantes se utilizan para crear el bracket. 
@@ -30,7 +30,7 @@
 
 - **Jugadores pueden registrarse al torneo durante el check-in**. Hasta que este permitido, por favor decídase si va jugar el torneo o no, porque esto le causa presión innecesaria al organizador del Torneo. 
 
-###Reglas del Torneo
+### Reglas del Torneo
 !!!note Los organizadores del Torneo Velocidad tienen el poder ejecutivo absoluto. Cualquier decisión tomada por los organizadores, por cualquier razón, es la regla sobre todo.
 
 1. **La bracket del Torneo** sera en el formato https://challonge.com/torneovelocidadX o https://challonge.com/torneovelocidadamateurX, con la X representando la edición del Torneo. La bracket sera compartida justo antes del comienzo del Torneo. 
@@ -82,14 +82,14 @@ El premio del ganador siempre sera al menos un supporter y el rol de @Torneo Vel
 
 Esta no es una regla, pero para cualquier duda siéntase libre de contactar un staff con @Staff-ES en #ayuda y ellos lo ayudaran. 
 
-###Streaming
+### Streaming
 !!!info La transmisión de Torneo Velocidad es: https://twitch.tv/bts_tetris 
 
 - Para demostrar el nivel del Torneo, ciertas partidas del torneo serán transmitidas. **Los organizadores les dará un previo aviso de quienes van a jugar en stream.**
 
 - **El Top 8 hasta la Gran Final del Torneo Velocidad es transmitido por completo en stream.**
 
-##Reglas de las Predicciones
+## Reglas de las Predicciones
 
 1. **Para poder participar, solo hay que poner el comando correcto** 
 En el [Twitch de Beyond The Stars](https://twitch.tv/bts_tetris) ponga en el chat el comando correcto (!guess 1, 2, etc.) durante el periodo de predicciones.  
