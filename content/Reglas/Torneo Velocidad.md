@@ -1,3 +1,7 @@
++++
+title = "Torneo Velocidad"
+pre= "<b>1. </b>"
++++
 ![torneovelocidadbanner](https://i.imgur.com/49afXSh.png)
 # Las Reglas del Torneo Velocidad 
 
