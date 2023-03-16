@@ -40,7 +40,7 @@ Blah blah blah this is an article in markdown
 
 **title** 
 
-The title of the article.  
+The title of the article.  Appears as the title in the tab.
 
 **chapter**
 
@@ -48,7 +48,11 @@ Set this to true if this is the `_index.md` file of a chapter folder.
 
 **pre**
 
-The prefix that appears on the sidebar. This is html, so you can use tags like `<b>` to style them. 
+The prefix that appears on the sidebar. This is html, so you can use tags like `<b>` (bold) to style them. 
+
+e.g. a pre of `<b>1. </b>` produces:
+![image](https://user-images.githubusercontent.com/70501945/225487197-20fa23d0-3b2a-4aaa-ad01-db5f77a56ac3.png)
+
 
 **weight**
 
